@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+#top {
+    background-color: #d6dee6;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 2px 20px #888e94;
+    position: sticky;
+    top: 0;
+}
+
+a {
+    align-items: center;
+    margin-top: 5px;
+}
+
+.top-logo{
+    height: auto;
+    width: 15vw;
+}
+
+h1 {
+    text-align: center;
+}
